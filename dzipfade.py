@@ -1,4 +1,3 @@
-#! python3
 # coding:utf8
 # author: neo
 '''
